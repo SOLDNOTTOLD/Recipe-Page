@@ -1,0 +1,289 @@
+﻿    .desktop {
+        display: flex;
+        min-height: 100vh;
+        align-items: flex-start;
+        padding: 64px 540px;
+        position: relative;
+        background-color: #f3e5d8;
+        min-width: 1440px;
+    }
+
+    .desktop .whitebox {
+        position: relative;
+        width: 360px;
+        height: 866px;
+    }
+
+    .desktop .image {
+        position: absolute;
+        width: 310px;
+        height: 134px;
+        top: 90px;
+        left: 566px;
+        object-fit: cover;
+    }
+
+    .desktop .simple-omelette {
+        position: absolute;
+        width: 266px;
+        top: 220px;
+        left: 551px;
+        font-family: "Outfit-Bold", Helvetica, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 22.2px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .desktop .text-wrapper {
+        font-weight: 700;
+    }
+
+    .desktop .span {
+        font-family: 'Young Serif', Helvetica, sans-serif;
+    }
+
+    .desktop .description {
+        position: absolute;
+        width: 300px;
+        top: 265px;
+        left: 566px;
+        font-family: "Outfit-Regular", sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 7.5px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .desktop .div {
+        position: absolute;
+        width: 316px;
+        height: 100px;
+        top: 309px;
+        left: 566px;
+        background-color: #fff7fc;
+        border-radius: 8px;
+    }
+
+    .desktop .prep-time {
+        position: absolute;
+        width: 100px;
+        height: 10px;
+        top: 318px;
+        left: 581px;
+        font-family: Outfit, Helvetica, sans-serif;
+        font-weight: 600;
+        color: #722949;
+        font-size: 12.1px;
+        letter-spacing: 0;
+        line-height: 0;
+        white-space: nowrap;
+    }
+
+    .desktop .prep-list {
+        position: absolute;
+        width: 135px;
+        top: 340px;
+        left: 560px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.3px;
+        letter-spacing: 0;
+        line-height:2;
+    }
+
+    .desktop .ingredients {
+        position: absolute;
+        width: 100px;
+        top: 415px;
+        left: 566px;
+        font-family: 'Young Serif', Helvetica, sans-serif;
+        font-weight:400;
+        color: #82452f;
+        font-size: 16.8px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .desktop .ingredients-list {
+        position: absolute;
+        width: 245px;
+        top: 452px;
+        left: 560px;
+        bottom: 575px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: 2;
+    }
+
+    .desktop .border-bottom {
+        position: absolute;
+        top: 560px;
+        width: 310px;
+        height: 1px;
+        left: 560px;
+        object-fit: cover;
+    }
+
+    .desktop .instructions {
+        position: absolute;
+        width: 105px;
+        top: 567px;
+        left: 566px;
+        font-family: 'Young Serif', Helvetica, sans-serif;
+        font-weight: 400;
+        color: #82452f;
+        font-size: 16.8px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .desktop .instructions-list {
+        position: absolute;
+        width: 310px;
+        top: 605px;
+        left: 535px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8px;
+        letter-spacing: 0;
+        line-height: 1.8;
+    }
+
+    .desktop .border-bottom2 {
+        position: absolute;
+        top: 775px;
+        width: 310px;
+        height: 1px;
+        left: 560px;
+        object-fit: cover;
+    }
+
+    .desktop .nutrition {
+        position: absolute;
+        width: 130px;
+        top: 770px;
+        left: 566px;
+        font-family: 'Young Serif', Helvetica, sans-serif;
+        font-weight: 400;
+        color: #82452f;
+        font-size: 16.8px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .desktop .values {
+        position: absolute;
+        width: 300px;
+        top: 806px;
+        left: 566px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .desktop .calories {
+        position: absolute;
+        top: 825px;
+        left: 580px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .word-spacing1 {
+        margin-right: 127px;
+    }
+
+    .desktop .border-bottom3 {
+        position: absolute;
+        top: 847px;
+        width: 310px;
+        height: 1px;
+        left: 560px;
+        object-fit: cover;
+    }
+
+    .desktop .carbs {
+        position: absolute;
+        top: 850px;
+        left: 580px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .word-spacing2 {
+        margin-right: 135px;
+    }
+
+    .desktop .border-bottom4 {
+        position: absolute;
+        top: 870px;
+        width: 310px;
+        height: 1px;
+        left: 560px;
+        object-fit: cover;
+    }
+    .desktop .protein {
+        position: absolute;
+        top: 873px;
+        left: 580px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .word-spacing3 {
+        margin-right: 130px;
+    }
+
+    .desktop .border-bottom5 {
+        position: absolute;
+        top: 893px;
+        width: 310px;
+        height: 1px;
+        left: 560px;
+        object-fit: cover;
+    }
+
+    .desktop .fat {
+        position: absolute;
+        top: 896px;
+        left: 580px;
+        font-family: Outfit, sans-serif;
+        font-weight: 400;
+        color: #000000;
+        font-size: 8.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .word-spacing4 {
+        margin-right: 145px;
+    }
+
+    .shared-style {
+        color: #82452f;
+        font-weight: 600;
+    }
